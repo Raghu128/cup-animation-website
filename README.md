@@ -4,6 +4,10 @@ An Apple-style, scroll-driven animation website built from a coffee/juice video 
 
 The hero section renders extracted video frames on a canvas and scrubs through them based on scroll position for a cinematic frame-by-frame feel.
 
+## Live Demo
+
+https://coruscating-mandazi-bd5af0.netlify.app
+
 ## Features
 
 - Scroll-driven frame-by-frame animation using HTML canvas.
